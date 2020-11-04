@@ -1,1 +1,19 @@
-Labb -Git
+Labb -Git Helena Lundström Javautvecklare 2020
+
+commit 3d41aebb981ce1052d02dbf8a58cc29c3677cf13 (HEAD -> main, branch_1)
+Author: Helena <helenalundstrom@hotmail.se>
+Date:   Wed Nov 4 10:15:29 2020 +0100
+
+    Commit ny textfil i branch_1
+
+commit 44730db89b494694b214de76ebb6a580204a88af (origin/main)
+Author: Helena <helenalundstrom@hotmail.se>
+Date:   Wed Nov 4 09:54:37 2020 +0100
+
+    Second commit .gitignore-file
+
+commit ab089662f3871da94572d2e7c141701ac7af93f6
+Author: Helena <helenalundstrom@hotmail.se>
+Date:   Wed Nov 4 09:44:40 2020 +0100
+
+    First commit Readme-file
